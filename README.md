@@ -42,3 +42,4 @@ If the analysis involves predictive modeling, consider selecting appropriate mod
 Evaluation Metrics:
 
 Define evaluation metrics relevant to modeling goals, such as mean absolute error or percentage error.
+In the .pynb file, we can run some lines of code and have access to the needed data. This file can be easily run by using Google Colab. 
