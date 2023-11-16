@@ -17,29 +17,30 @@ The API response may not contain missing values.
 
 The target variable could be the cryptocurrency prices in the specified target currency (tsyms).
 
-**Analysis plans I can make with this dataset**
+***Analysis plans I can make with this dataset***
 
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 Explore the retrieved data to understand the distribution of cryptocurrency prices, identify trends, and detect outliers.
 
-Descriptive Statistics:
+**Descriptive Statistics:**
 
 Calculate basic statistics for key variables, such as mean, median, standard deviation, etc.
 
-Visualization:
+**Visualization:**
 
 Create visualizations (e.g., line charts, bar charts) to represent trends in cryptocurrency prices over time or compare different cryptocurrencies. Also, I can explore possibilities for creating new features, such as daily price changes, relative performance, or moving averages.
 
-Data Preprocessing:
+**Data Preprocessing:**
 
 Check for and handle any outliers or inconsistencies in the data.
 
-Model Selection:
+**Model Selection:**
 
 If the analysis involves predictive modeling, consider selecting appropriate models for predicting cryptocurrency prices.
 
-Evaluation Metrics:
+**Evaluation Metrics:**
 
 Define evaluation metrics relevant to modeling goals, such as mean absolute error or percentage error.
+
 In the .pynb file, we can run some lines of code and have access to the needed data. This file can be easily run by using Google Colab. 
