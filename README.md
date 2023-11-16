@@ -1,8 +1,9 @@
 # CryptoDataset
 I am using this link as a good reference for using its API for my goals: 
+
 "https://min-api.cryptocompare.com/documentation?api_key=e813f7f8324c46ff0a9630ee2312326ea492f32d9e2e734b0c0cb4f310825d76"
 
-Dataset Description:
+**Dataset Description:**
 
 The dataset is obtained from the CryptoCompare API, which provides real-time and historical cryptocurrency pricing information.
 
@@ -16,7 +17,7 @@ The API response may not contain missing values.
 
 The target variable could be the cryptocurrency prices in the specified target currency (tsyms).
 
-Analysis plans I can make with this dataset
+**Analysis plans I can make with this dataset**
 
 Exploratory Data Analysis (EDA):
 
@@ -28,7 +29,7 @@ Calculate basic statistics for key variables, such as mean, median, standard dev
 
 Visualization:
 
-Create visualizations (e.g., line charts, bar charts) to represent trends in cryptocurrency prices over time or compare different cryptocurrencies. And also I can explore possibilities for creating new features, such as daily price changes, relative performance, or moving averages.
+Create visualizations (e.g., line charts, bar charts) to represent trends in cryptocurrency prices over time or compare different cryptocurrencies. Also, I can explore possibilities for creating new features, such as daily price changes, relative performance, or moving averages.
 
 Data Preprocessing:
 
